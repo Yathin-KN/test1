@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o math_operations.cpython-310-x86_64-linux-gnu.so CMakeFiles/math_operations.dir/src/binder.cpp.o 
